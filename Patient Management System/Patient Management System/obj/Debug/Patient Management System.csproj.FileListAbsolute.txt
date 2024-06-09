@@ -1,0 +1,68 @@
+D:\3rd Semester\Patient Management System\Patient Management System\Patient Management System\obj\Debug\Patient Management System.csproj.AssemblyReference.cache
+D:\3rd Semester\Patient Management System\Patient Management System\Patient Management System\obj\Debug\Patient_Management_System.Properties.Resources.resources
+D:\3rd Semester\Patient Management System\Patient Management System\Patient Management System\obj\Debug\Patient Management System.csproj.GenerateResource.cache
+D:\3rd Semester\Patient Management System\Patient Management System\Patient Management System\obj\Debug\Patient Management System.csproj.CoreCompileInputs.cache
+D:\3rd Semester\Patient Management System\Patient Management System\Patient Management System\bin\Debug\Patient Management System.exe.config
+D:\3rd Semester\Patient Management System\Patient Management System\Patient Management System\bin\Debug\Patient Management System.exe
+D:\3rd Semester\Patient Management System\Patient Management System\Patient Management System\bin\Debug\Patient Management System.pdb
+D:\3rd Semester\Patient Management System\Patient Management System\Patient Management System\obj\Debug\Patient Management System.exe
+D:\3rd Semester\Patient Management System\Patient Management System\Patient Management System\obj\Debug\Patient Management System.pdb
+D:\3rd Semester\Patient Management System\Patient Management System\Patient Management System\bin\Debug\Guna.UI2.dll
+D:\3rd Semester\Patient Management System\Patient Management System\Patient Management System\obj\Debug\Patient_Management_System.frmLogin.resources
+D:\3rd Semester\Patient Management System\Patient Management System\Patient Management System\obj\Debug\Patient Management System.csproj.CopyComplete
+D:\3rd Semester\Patient Management System\Patient Management System\Patient Management System\obj\Debug\Patient_Management_System.Patient.resources
+D:\3rd Semester\Patient Management System\Patient Management System\Patient Management System\obj\Debug\Patient_Management_System.Diagnosis.resources
+D:\3rd Semester\Patient Management System\Patient Management System\Patient Management System\obj\Debug\Patient_Management_System.Home.resources
+D:\3rd Semester\Patient Management System\Patient Management System\Patient Management System\obj\Debug\Patient_Management_System.Doctor.resources
+C:\Users\Yashodha\Downloads\Patient Management System\Patient Management System\Patient Management System\bin\Debug\Patient Management System.exe.config
+C:\Users\Yashodha\Downloads\Patient Management System\Patient Management System\Patient Management System\bin\Debug\Patient Management System.exe
+C:\Users\Yashodha\Downloads\Patient Management System\Patient Management System\Patient Management System\bin\Debug\Patient Management System.pdb
+C:\Users\Yashodha\Downloads\Patient Management System\Patient Management System\Patient Management System\bin\Debug\Guna.UI2.dll
+C:\Users\Yashodha\Downloads\Patient Management System\Patient Management System\Patient Management System\obj\Debug\Patient Management System.csproj.AssemblyReference.cache
+C:\Users\Yashodha\Downloads\Patient Management System\Patient Management System\Patient Management System\obj\Debug\Patient_Management_System.Diagnosis.resources
+C:\Users\Yashodha\Downloads\Patient Management System\Patient Management System\Patient Management System\obj\Debug\Patient_Management_System.Doctor.resources
+C:\Users\Yashodha\Downloads\Patient Management System\Patient Management System\Patient Management System\obj\Debug\Patient_Management_System.frmLogin.resources
+C:\Users\Yashodha\Downloads\Patient Management System\Patient Management System\Patient Management System\obj\Debug\Patient_Management_System.Home.resources
+C:\Users\Yashodha\Downloads\Patient Management System\Patient Management System\Patient Management System\obj\Debug\Patient_Management_System.Patient.resources
+C:\Users\Yashodha\Downloads\Patient Management System\Patient Management System\Patient Management System\obj\Debug\Patient_Management_System.Properties.Resources.resources
+C:\Users\Yashodha\Downloads\Patient Management System\Patient Management System\Patient Management System\obj\Debug\Patient Management System.csproj.GenerateResource.cache
+C:\Users\Yashodha\Downloads\Patient Management System\Patient Management System\Patient Management System\obj\Debug\Patient Management System.csproj.CoreCompileInputs.cache
+C:\Users\Yashodha\Downloads\Patient Management System\Patient Management System\Patient Management System\obj\Debug\Patient Management System.exe
+C:\Users\Yashodha\Downloads\Patient Management System\Patient Management System\Patient Management System\obj\Debug\Patient Management System.pdb
+C:\Users\Yashodha\Downloads\Patient Management System\Patient Management System\Patient Management System\bin\Debug\Doc.mdf
+C:\Users\Yashodha\Downloads\Patient Management System\Patient Management System\Patient Management System\bin\Debug\Doc_log.ldf
+C:\Users\Yashodha\Downloads\Patient Management System\Patient Management System\Patient Management System\bin\Debug\HMS.mdf
+C:\Users\Yashodha\Downloads\Patient Management System\Patient Management System\Patient Management System\bin\Debug\HMS_log.ldf
+C:\Users\Yashodha\Downloads\Patient Management System\Patient Management System\Patient Management System\obj\Debug\Patient_Management_System.Doc.resources
+C:\Users\Yashodha\Downloads\Patient Management System\Patient Management System\Patient Management System\obj\Debug\Patient_Management_System.Login.resources
+C:\Users\Yashodha\Downloads\Patient Management System\Patient Management System\Patient Management System\obj\Debug\Patient_Management_System.Signup.resources
+C:\Users\Yashodha\Downloads\Patient Management System\Patient Management System\Patient Management System\obj\Debug\Patient_Management_System.Welcome.resources
+C:\Users\Yashodha\Downloads\Patient Management System\Patient Management System\Patient Management System\bin\Debug\newHMS.mdf
+C:\Users\Yashodha\Downloads\Patient Management System\Patient Management System\Patient Management System\bin\Debug\newHMS_log.ldf
+C:\Users\Yashodha\Downloads\Patient Management System\Patient Management System\Patient Management System\obj\Debug\Patient .FC70A810.Up2Date
+C:\Users\Yashodha\Documents\My Projects\Patient Management System\Patient Management System\Patient Management System\bin\Debug\Doc.mdf
+C:\Users\Yashodha\Documents\My Projects\Patient Management System\Patient Management System\Patient Management System\bin\Debug\Doc_log.ldf
+C:\Users\Yashodha\Documents\My Projects\Patient Management System\Patient Management System\Patient Management System\bin\Debug\HMS.mdf
+C:\Users\Yashodha\Documents\My Projects\Patient Management System\Patient Management System\Patient Management System\bin\Debug\HMS_log.ldf
+C:\Users\Yashodha\Documents\My Projects\Patient Management System\Patient Management System\Patient Management System\bin\Debug\newHMS.mdf
+C:\Users\Yashodha\Documents\My Projects\Patient Management System\Patient Management System\Patient Management System\bin\Debug\newHMS_log.ldf
+C:\Users\Yashodha\Documents\My Projects\Patient Management System\Patient Management System\Patient Management System\bin\Debug\Patient Management System.exe.config
+C:\Users\Yashodha\Documents\My Projects\Patient Management System\Patient Management System\Patient Management System\bin\Debug\Patient Management System.exe
+C:\Users\Yashodha\Documents\My Projects\Patient Management System\Patient Management System\Patient Management System\bin\Debug\Patient Management System.pdb
+C:\Users\Yashodha\Documents\My Projects\Patient Management System\Patient Management System\Patient Management System\bin\Debug\Guna.UI2.dll
+C:\Users\Yashodha\Documents\My Projects\Patient Management System\Patient Management System\Patient Management System\obj\Debug\Patient Management System.csproj.AssemblyReference.cache
+C:\Users\Yashodha\Documents\My Projects\Patient Management System\Patient Management System\Patient Management System\obj\Debug\Patient_Management_System.Diagnosis.resources
+C:\Users\Yashodha\Documents\My Projects\Patient Management System\Patient Management System\Patient Management System\obj\Debug\Patient_Management_System.Doc.resources
+C:\Users\Yashodha\Documents\My Projects\Patient Management System\Patient Management System\Patient Management System\obj\Debug\Patient_Management_System.Doctor.resources
+C:\Users\Yashodha\Documents\My Projects\Patient Management System\Patient Management System\Patient Management System\obj\Debug\Patient_Management_System.frmLogin.resources
+C:\Users\Yashodha\Documents\My Projects\Patient Management System\Patient Management System\Patient Management System\obj\Debug\Patient_Management_System.Home.resources
+C:\Users\Yashodha\Documents\My Projects\Patient Management System\Patient Management System\Patient Management System\obj\Debug\Patient_Management_System.Login.resources
+C:\Users\Yashodha\Documents\My Projects\Patient Management System\Patient Management System\Patient Management System\obj\Debug\Patient_Management_System.Patient.resources
+C:\Users\Yashodha\Documents\My Projects\Patient Management System\Patient Management System\Patient Management System\obj\Debug\Patient_Management_System.Properties.Resources.resources
+C:\Users\Yashodha\Documents\My Projects\Patient Management System\Patient Management System\Patient Management System\obj\Debug\Patient_Management_System.Signup.resources
+C:\Users\Yashodha\Documents\My Projects\Patient Management System\Patient Management System\Patient Management System\obj\Debug\Patient_Management_System.Welcome.resources
+C:\Users\Yashodha\Documents\My Projects\Patient Management System\Patient Management System\Patient Management System\obj\Debug\Patient Management System.csproj.GenerateResource.cache
+C:\Users\Yashodha\Documents\My Projects\Patient Management System\Patient Management System\Patient Management System\obj\Debug\Patient Management System.csproj.CoreCompileInputs.cache
+C:\Users\Yashodha\Documents\My Projects\Patient Management System\Patient Management System\Patient Management System\obj\Debug\Patient .FC70A810.Up2Date
+C:\Users\Yashodha\Documents\My Projects\Patient Management System\Patient Management System\Patient Management System\obj\Debug\Patient Management System.exe
+C:\Users\Yashodha\Documents\My Projects\Patient Management System\Patient Management System\Patient Management System\obj\Debug\Patient Management System.pdb

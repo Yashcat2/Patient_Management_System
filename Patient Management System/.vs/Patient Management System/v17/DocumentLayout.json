@@ -1,0 +1,301 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Yashodha\\Documents\\My Projects\\Patient Management System\\Patient Management System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32058909-1B08-475B-B930-FCF6A6BA7FAA}|Patient Management System\\Patient Management System.csproj|C:\\Users\\Yashodha\\Documents\\My Projects\\Patient Management System\\Patient Management System\\patient management system\\welcome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32058909-1B08-475B-B930-FCF6A6BA7FAA}|Patient Management System\\Patient Management System.csproj|solutionrelative:patient management system\\welcome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32058909-1B08-475B-B930-FCF6A6BA7FAA}|Patient Management System\\Patient Management System.csproj|C:\\Users\\Yashodha\\Documents\\My Projects\\Patient Management System\\Patient Management System\\patient management system\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32058909-1B08-475B-B930-FCF6A6BA7FAA}|Patient Management System\\Patient Management System.csproj|solutionrelative:patient management system\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32058909-1B08-475B-B930-FCF6A6BA7FAA}|Patient Management System\\Patient Management System.csproj|c:\\users\\yashodha\\documents\\my projects\\patient management system\\patient management system\\patient management system\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32058909-1B08-475B-B930-FCF6A6BA7FAA}|Patient Management System\\Patient Management System.csproj|solutionrelative:patient management system\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32058909-1B08-475B-B930-FCF6A6BA7FAA}|Patient Management System\\Patient Management System.csproj|C:\\Users\\Yashodha\\Documents\\My Projects\\Patient Management System\\Patient Management System\\patient management system\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{32058909-1B08-475B-B930-FCF6A6BA7FAA}|Patient Management System\\Patient Management System.csproj|solutionrelative:patient management system\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32058909-1B08-475B-B930-FCF6A6BA7FAA}|Patient Management System\\Patient Management System.csproj|C:\\Users\\Yashodha\\Documents\\My Projects\\Patient Management System\\Patient Management System\\patient management system\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32058909-1B08-475B-B930-FCF6A6BA7FAA}|Patient Management System\\Patient Management System.csproj|solutionrelative:patient management system\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32058909-1B08-475B-B930-FCF6A6BA7FAA}|Patient Management System\\Patient Management System.csproj|C:\\Users\\Yashodha\\Documents\\My Projects\\Patient Management System\\Patient Management System\\patient management system\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{32058909-1B08-475B-B930-FCF6A6BA7FAA}|Patient Management System\\Patient Management System.csproj|solutionrelative:patient management system\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32058909-1B08-475B-B930-FCF6A6BA7FAA}|Patient Management System\\Patient Management System.csproj|c:\\users\\yashodha\\documents\\my projects\\patient management system\\patient management system\\patient management system\\diagnosis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32058909-1B08-475B-B930-FCF6A6BA7FAA}|Patient Management System\\Patient Management System.csproj|solutionrelative:patient management system\\diagnosis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32058909-1B08-475B-B930-FCF6A6BA7FAA}|Patient Management System\\Patient Management System.csproj|c:\\users\\yashodha\\documents\\my projects\\patient management system\\patient management system\\patient management system\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32058909-1B08-475B-B930-FCF6A6BA7FAA}|Patient Management System\\Patient Management System.csproj|solutionrelative:patient management system\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32058909-1B08-475B-B930-FCF6A6BA7FAA}|Patient Management System\\Patient Management System.csproj|C:\\Users\\Yashodha\\Documents\\My Projects\\Patient Management System\\Patient Management System\\patient management system\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{32058909-1B08-475B-B930-FCF6A6BA7FAA}|Patient Management System\\Patient Management System.csproj|solutionrelative:patient management system\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32058909-1B08-475B-B930-FCF6A6BA7FAA}|Patient Management System\\Patient Management System.csproj|C:\\Users\\Yashodha\\Documents\\My Projects\\Patient Management System\\Patient Management System\\patient management system\\diagnosis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{32058909-1B08-475B-B930-FCF6A6BA7FAA}|Patient Management System\\Patient Management System.csproj|solutionrelative:patient management system\\diagnosis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32058909-1B08-475B-B930-FCF6A6BA7FAA}|Patient Management System\\Patient Management System.csproj|C:\\Users\\Yashodha\\Documents\\My Projects\\Patient Management System\\Patient Management System\\patient management system\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{32058909-1B08-475B-B930-FCF6A6BA7FAA}|Patient Management System\\Patient Management System.csproj|solutionrelative:patient management system\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32058909-1B08-475B-B930-FCF6A6BA7FAA}|Patient Management System\\Patient Management System.csproj|C:\\Users\\Yashodha\\Documents\\My Projects\\Patient Management System\\Patient Management System\\patient management system\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32058909-1B08-475B-B930-FCF6A6BA7FAA}|Patient Management System\\Patient Management System.csproj|solutionrelative:patient management system\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32058909-1B08-475B-B930-FCF6A6BA7FAA}|Patient Management System\\Patient Management System.csproj|C:\\Users\\Yashodha\\Documents\\My Projects\\Patient Management System\\Patient Management System\\patient management system\\home.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32058909-1B08-475B-B930-FCF6A6BA7FAA}|Patient Management System\\Patient Management System.csproj|solutionrelative:patient management system\\home.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32058909-1B08-475B-B930-FCF6A6BA7FAA}|Patient Management System\\Patient Management System.csproj|C:\\Users\\Yashodha\\Documents\\My Projects\\Patient Management System\\Patient Management System\\patient management system\\properties\\resources.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{32058909-1B08-475B-B930-FCF6A6BA7FAA}|Patient Management System\\Patient Management System.csproj|solutionrelative:patient management system\\properties\\resources.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32058909-1B08-475B-B930-FCF6A6BA7FAA}|Patient Management System\\Patient Management System.csproj|C:\\Users\\Yashodha\\Documents\\My Projects\\Patient Management System\\Patient Management System\\patient management system\\welcome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{32058909-1B08-475B-B930-FCF6A6BA7FAA}|Patient Management System\\Patient Management System.csproj|solutionrelative:patient management system\\welcome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32058909-1B08-475B-B930-FCF6A6BA7FAA}|Patient Management System\\Patient Management System.csproj|C:\\Users\\Yashodha\\Documents\\My Projects\\Patient Management System\\Patient Management System\\patient management system\\doc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{32058909-1B08-475B-B930-FCF6A6BA7FAA}|Patient Management System\\Patient Management System.csproj|solutionrelative:patient management system\\doc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32058909-1B08-475B-B930-FCF6A6BA7FAA}|Patient Management System\\Patient Management System.csproj|C:\\Users\\Yashodha\\Documents\\My Projects\\Patient Management System\\Patient Management System\\patient management system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32058909-1B08-475B-B930-FCF6A6BA7FAA}|Patient Management System\\Patient Management System.csproj|solutionrelative:patient management system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmLogin.cs",
+              "DocumentMoniker": "C:\\Users\\Yashodha\\Documents\\My Projects\\Patient Management System\\Patient Management System\\Patient Management System\\frmLogin.cs",
+              "RelativeDocumentMoniker": "Patient Management System\\frmLogin.cs",
+              "ToolTip": "C:\\Users\\Yashodha\\Documents\\My Projects\\Patient Management System\\Patient Management System\\Patient Management System\\frmLogin.cs",
+              "RelativeToolTip": "Patient Management System\\frmLogin.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T10:59:38.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\Yashodha\\Documents\\My Projects\\Patient Management System\\Patient Management System\\Patient Management System\\Doctor.cs",
+              "RelativeDocumentMoniker": "Patient Management System\\Doctor.cs",
+              "ToolTip": "C:\\Users\\Yashodha\\Documents\\My Projects\\Patient Management System\\Patient Management System\\Patient Management System\\Doctor.cs",
+              "RelativeToolTip": "Patient Management System\\Doctor.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAA1wA4AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T10:59:18.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Diagnosis.cs",
+              "DocumentMoniker": "C:\\Users\\Yashodha\\Documents\\My Projects\\Patient Management System\\Patient Management System\\Patient Management System\\Diagnosis.cs",
+              "RelativeDocumentMoniker": "Patient Management System\\Diagnosis.cs",
+              "ToolTip": "C:\\Users\\Yashodha\\Documents\\My Projects\\Patient Management System\\Patient Management System\\Patient Management System\\Diagnosis.cs",
+              "RelativeToolTip": "Patient Management System\\Diagnosis.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAYwBQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T10:47:23.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "C:\\Users\\Yashodha\\Documents\\My Projects\\Patient Management System\\Patient Management System\\Patient Management System\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "Patient Management System\\Properties\\Resources.resx",
+              "ToolTip": "C:\\Users\\Yashodha\\Documents\\My Projects\\Patient Management System\\Patient Management System\\Patient Management System\\Properties\\Resources.resx",
+              "RelativeToolTip": "Patient Management System\\Properties\\Resources.resx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAOMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-06-09T10:41:10.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Home.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Yashodha\\Documents\\My Projects\\Patient Management System\\Patient Management System\\Patient Management System\\Home.Designer.cs",
+              "RelativeDocumentMoniker": "Patient Management System\\Home.Designer.cs",
+              "ToolTip": "C:\\Users\\Yashodha\\Documents\\My Projects\\Patient Management System\\Patient Management System\\Patient Management System\\Home.Designer.cs",
+              "RelativeToolTip": "Patient Management System\\Home.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFcBAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T10:39:35.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Home.cs",
+              "DocumentMoniker": "C:\\Users\\Yashodha\\Documents\\My Projects\\Patient Management System\\Patient Management System\\Patient Management System\\Home.cs",
+              "RelativeDocumentMoniker": "Patient Management System\\Home.cs",
+              "ToolTip": "C:\\Users\\Yashodha\\Documents\\My Projects\\Patient Management System\\Patient Management System\\Patient Management System\\Home.cs",
+              "RelativeToolTip": "Patient Management System\\Home.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAD4vzgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T10:33:38.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Home.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Yashodha\\Documents\\My Projects\\Patient Management System\\Patient Management System\\Patient Management System\\Home.cs",
+              "RelativeDocumentMoniker": "Patient Management System\\Home.cs",
+              "ToolTip": "C:\\Users\\Yashodha\\Documents\\My Projects\\Patient Management System\\Patient Management System\\Patient Management System\\Home.cs [Design]",
+              "RelativeToolTip": "Patient Management System\\Home.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T10:33:44.4Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\Yashodha\\Documents\\My Projects\\Patient Management System\\Patient Management System\\Patient Management System\\Login.cs",
+              "RelativeDocumentMoniker": "Patient Management System\\Login.cs",
+              "ToolTip": "C:\\Users\\Yashodha\\Documents\\My Projects\\Patient Management System\\Patient Management System\\Patient Management System\\Login.cs",
+              "RelativeToolTip": "Patient Management System\\Login.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T10:33:24.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Login.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Yashodha\\Documents\\My Projects\\Patient Management System\\Patient Management System\\Patient Management System\\Login.Designer.cs",
+              "RelativeDocumentMoniker": "Patient Management System\\Login.Designer.cs",
+              "ToolTip": "C:\\Users\\Yashodha\\Documents\\My Projects\\Patient Management System\\Patient Management System\\Patient Management System\\Login.Designer.cs",
+              "RelativeToolTip": "Patient Management System\\Login.Designer.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T10:33:17.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Welcome.cs",
+              "DocumentMoniker": "C:\\Users\\Yashodha\\Documents\\My Projects\\Patient Management System\\Patient Management System\\Patient Management System\\Welcome.cs",
+              "RelativeDocumentMoniker": "Patient Management System\\Welcome.cs",
+              "ToolTip": "C:\\Users\\Yashodha\\Documents\\My Projects\\Patient Management System\\Patient Management System\\Patient Management System\\Welcome.cs",
+              "RelativeToolTip": "Patient Management System\\Welcome.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T10:32:15.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Welcome.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Yashodha\\Documents\\My Projects\\Patient Management System\\Patient Management System\\Patient Management System\\Welcome.cs",
+              "RelativeDocumentMoniker": "Patient Management System\\Welcome.cs",
+              "ToolTip": "C:\\Users\\Yashodha\\Documents\\My Projects\\Patient Management System\\Patient Management System\\Patient Management System\\Welcome.cs [Design]",
+              "RelativeToolTip": "Patient Management System\\Welcome.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T10:27:07.838Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Yashodha\\Documents\\My Projects\\Patient Management System\\Patient Management System\\Patient Management System\\Login.cs",
+              "RelativeDocumentMoniker": "Patient Management System\\Login.cs",
+              "ToolTip": "C:\\Users\\Yashodha\\Documents\\My Projects\\Patient Management System\\Patient Management System\\Patient Management System\\Login.cs [Design]",
+              "RelativeToolTip": "Patient Management System\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T10:26:48.143Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Yashodha\\Documents\\My Projects\\Patient Management System\\Patient Management System\\Patient Management System\\frmLogin.cs",
+              "RelativeDocumentMoniker": "Patient Management System\\frmLogin.cs",
+              "ToolTip": "C:\\Users\\Yashodha\\Documents\\My Projects\\Patient Management System\\Patient Management System\\Patient Management System\\frmLogin.cs [Design]",
+              "RelativeToolTip": "Patient Management System\\frmLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T10:25:02.241Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Doctor.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Yashodha\\Documents\\My Projects\\Patient Management System\\Patient Management System\\Patient Management System\\Doctor.cs",
+              "RelativeDocumentMoniker": "Patient Management System\\Doctor.cs",
+              "ToolTip": "C:\\Users\\Yashodha\\Documents\\My Projects\\Patient Management System\\Patient Management System\\Patient Management System\\Doctor.cs [Design]",
+              "RelativeToolTip": "Patient Management System\\Doctor.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T10:24:59.96Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Doc.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Yashodha\\Documents\\My Projects\\Patient Management System\\Patient Management System\\Patient Management System\\Doc.cs",
+              "RelativeDocumentMoniker": "Patient Management System\\Doc.cs",
+              "ToolTip": "C:\\Users\\Yashodha\\Documents\\My Projects\\Patient Management System\\Patient Management System\\Patient Management System\\Doc.cs [Design]",
+              "RelativeToolTip": "Patient Management System\\Doc.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T10:24:14.276Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Diagnosis.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Yashodha\\Documents\\My Projects\\Patient Management System\\Patient Management System\\Patient Management System\\Diagnosis.cs",
+              "RelativeDocumentMoniker": "Patient Management System\\Diagnosis.cs",
+              "ToolTip": "C:\\Users\\Yashodha\\Documents\\My Projects\\Patient Management System\\Patient Management System\\Patient Management System\\Diagnosis.cs [Design]",
+              "RelativeToolTip": "Patient Management System\\Diagnosis.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T10:24:11.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Yashodha\\Documents\\My Projects\\Patient Management System\\Patient Management System\\Patient Management System\\Program.cs",
+              "RelativeDocumentMoniker": "Patient Management System\\Program.cs",
+              "ToolTip": "C:\\Users\\Yashodha\\Documents\\My Projects\\Patient Management System\\Patient Management System\\Patient Management System\\Program.cs",
+              "RelativeToolTip": "Patient Management System\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T14:13:27.217Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
